@@ -1,49 +1,150 @@
-# 🚀 Bienvenido a Milianosoft
+<h1 align="center">👨‍💻 Brangie Miliano</h1>
+<h3 align="center">Backend Developer (.NET) | SQL Server | Power BI</h3>
 
-Ingeniero de Software enfocado en la creación de productos digitales de alta calidad, escalables y mantenibles. 
-Mi formación académica, combinada con una mentalidad ágil, me permite adaptarme rápidamente a nuevos desafíos
-tecnológicos, garantizando soluciones robustas desde la arquitectura hasta la interfaz de usuario.
+<p align="center">
+Desarrollador enfocado en backend con .NET y análisis de datos utilizando SQL Server y Power BI.
+Me interesa construir sistemas que integren bases de datos, APIs y dashboards para análisis de negocio.
+</p>
+
 ---
 
-### 🛠️ Mi Stack Tecnológico
+# 🚀 Proyectos Destacados
 
-| Área | Tecnologías |
-| :--- | :--- |
-| **Backend** | .NET, .NET Web Api, .NET MVC, EF Core |
-| **Frontend** | Blazor,Angular, React, HTML5, CSS3 |
-| **Base de Datos** | SQL Server, PostgreSQL |
-| **DevOps** | Git, Azure, Docker |
-| **Movil** | Flutter, Ionic |
+### 🛒 Sistema de Ventas (.NET 8 + SQL Server)
+
+Aplicación de escritorio desarrollada con:
+
+- .NET 8
+- ADO.NET
+- SQL Server
+
+Funciones principales:
+
+✔ Gestión de productos  
+✔ Registro de ventas  
+✔ Control de clientes  
+✔ Consultas SQL para reportes  
+
 ---
 
-### 📁 Proyectos Destacados
-## DevTree API
-Plataforma robusta para que desarrolladores centralicen sus enlaces, redes sociales y portafolios en una sola página personalizada. 
-Incluye gestión de perfiles con carga de imágenes optimizada y autenticación segura.
+### 🌐 Portafolio / Blog Personal
 
-Tech Stack: TypeScript, Node.js, Express, MongoDB Atlas, Cloudinary.
+Aplicación web desarrollada con:
 
-Despliegue: Render (CI/CD nativo).
+- ASP.NET Core MVC (.NET 8)
+- Entity Framework Code First
+- SQL Server
+- Bootstrap
+- JavaScript
 
-Características: Validación de esquemas, JWT Authentication, y procesamiento de imágenes con Formidable.
+Funciones:
 
- Repositorio: https://github.com/MilianoSoft/DevTreeApi
+✔ Publicación de artículos  
+✔ Portafolio de proyectos  
+✔ Gestión de contenido desde base de datos  
 
- Render: https://devtreeapi.onrender.com  La demo puede tardar unos 30 segundos en iniciar debido al plan gratuito de Render
 ---
-## DevTree Client
-Interfaz de usuario moderna y responsiva para la plataforma DevTree. Permite a los usuarios gestionar sus enlaces en tiempo real,
-personalizar su perfil y visualizar los cambios instantáneamente mediante una arquitectura de componentes eficiente.
 
-Tech Stack: React, TypeScript, Tailwind CSS, Vite.
+### 🗄️ Diseño de Base de Datos Multisucursal
 
-Despliegue: Netlify (CI/CD nativo).
+Proyecto enfocado en **modelado de base de datos empresarial**.
 
-Características: Gestión de estado global, consumo de API REST, validación de formularios avanzada y diseño mobile-first.
+Tecnologías:
 
-🚀 Ver Repositorio | 🌐 Demo En Vivo (Nota: Asegúrate de reemplazar el enlace de la demo por tu URL real de Netlify).
+- MySQL
+- Stored Procedures
+- Views
+- Normalización de base de datos
 
-### 📫 Contacto
-* **Web:** milianosoft.com
-* **LinkedIn:** https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-* **Email:** programacionconbrangie@gmail.com
+Características:
+
+✔ Modelo para empresa con múltiples sucursales  
+✔ Procedimientos almacenados  
+✔ Vistas para consultas de negocio  
+
+---
+
+### 📊 Dashboard de Negocios (SQL + Power BI)
+
+Proyecto de análisis de datos utilizando la base **AdventureWorks**.
+
+Tecnologías:
+
+- SQL Server
+- Power BI
+
+Métricas del dashboard:
+
+✔ Ventas por periodo  
+✔ Productos más vendidos  
+✔ Clientes  
+✔ Información financiera  
+
+Datos preparados mediante **views en SQL Server** y visualizados en **Power BI**.
+
+---
+
+# 🧰 Tech Stack
+
+### Backend
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EntityFramework](https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge)
+
+---
+
+### Bases de Datos
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### Data & BI
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MilianoSoft&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilianoSoft&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📚 Actualmente Aprendiendo
+
+Actualmente estoy ampliando mis conocimientos en tecnologías modernas para desarrollo backend y análisis de datos:
+
+- ⚡ **.NET Minimal APIs** para construir APIs ligeras y eficientes
+- 🧩 **Blazor** para desarrollo de aplicaciones web interactivas con C#
+- ☁️ **Microsoft Azure** para despliegue y servicios en la nube
+- 📊 **Power BI avanzado** (Power Query, modelado de datos y optimización de reportes)
+- 🗄️ **Oracle Database** para ampliar experiencia en diferentes motores de bases de datos
+
+---
+
+# 📫 Contacto
+
+💼 LinkedIn  
+https://linkedin.com/in/brangiemiliano
+
+💻 GitHub  
+https://github.com/MilianoSoft
